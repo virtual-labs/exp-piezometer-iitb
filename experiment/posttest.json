@@ -1,39 +1,21 @@
-{
-  "version": 2.0,
-  "questions": [
+[
+
     {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+        "question": "Water is flowing through pipe. A Piezometer is attached to the pipe as shown in the figure. The height (h) of water column in Piezometer is 7 cm. Find the pressure of the water flowing through pipe.",
+        "qid": 1,
+        "option_a": "620 N/m<sup>2</sup>",
+        "option_b": "686 N/m<sup>2</sup>",
+        "option_c": "545 N/m<sup>2</sup>",
+        "option_d": "820 N/m<sup>2</sup>",
+        "correct_option": "b"
     },
     {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+        "question": "Water is flowing through pipe. A Piezometer is attached to the pipe as shown in the figure. The height (h) of water column in Piezometer is 5 cm. Find the pressure of the water flowing through pipe.",
+        "qid": 2,
+        "option_a": "530  N/m<sup>2</sup>",
+        "option_b": "375  N/m<sup>2</sup>",
+        "option_c": "290  N/m<sup>2</sup>",
+        "option_d": "490  N/m<sup>2</sup>",
+        "correct_option": "d"
     }
-  ]
-}
+]
