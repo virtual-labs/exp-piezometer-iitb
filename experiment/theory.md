@@ -1,7 +1,7 @@
 <h3>Piezometer</h3>
 <hr />
 
-<img src='./lab-manual/images/th1.webp' style='width: 20%;' />
+<img src='./images/th1.webp' style='width: 20%;' />
 
 $$ Figure\ 1 $$
 
