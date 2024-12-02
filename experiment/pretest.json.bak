@@ -1,0 +1,20 @@
+[
+    {
+        "question": "Piezometer is used to measure",
+        "qid": 1,
+        "option_a": "Gauge Pressure",
+        "option_b": "Absolute Pressure",
+        "option_c": "Vacuum Pressure",
+        "option_d": "Mechanical Pressure",
+        "correct_option": "a"
+    },
+    {
+        "question": "Pressure measured by Piezometer is given by",
+        "qid": 2,
+        "option_a": "g*h",
+        "option_b": "&rho;*h",
+        "option_c": "&rho;* g*h",
+        "option_d": "&rho;*g/h",
+        "correct_option": "c"
+    }
+]
